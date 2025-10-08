@@ -1,0 +1,7 @@
+{
+  "name": "Vi.Ma",
+  "description": "An application to manage warehouse inventory, track products with QR codes, and monitor their status. Features smart suggestions for product maintenance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
